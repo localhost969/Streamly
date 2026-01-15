@@ -2,9 +2,18 @@
 
 A Movies & Series streaming website built with Next.js , IMDB api , OMDB API and VIDSRC API, 
 
+## Home Page
 <img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/b4c32ee2-33c2-445d-8575-8a719734f14a" />
-<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/9f95e241-5932-499c-ae4b-eeb168c0e2c6" />
-<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/074f7f51-4e00-4ba2-8a0f-96d7183974d8" />
+
+## Movies Page
+<img width="1360" height="626" alt="m1" src="https://github.com/user-attachments/assets/ee2809c1-13c4-4276-908c-71b49482363f" />
+
+<img width="1359" height="625" alt="m2" src="https://github.com/user-attachments/assets/f0fbc9bd-dc08-4e3e-8047-530cc5113fdd" />
+
+## Series Page
+<img width="1360" height="627" alt="s1" src="https://github.com/user-attachments/assets/656a6f55-6536-43f5-94e8-07a27b080e6b" />
+<img width="1359" height="626" alt="s2" src="https://github.com/user-attachments/assets/38f1d4ba-97c1-441a-823a-43d8e5c826ad" />
+<img width="1358" height="627" alt="s3" src="https://github.com/user-attachments/assets/d3a0e106-abdd-4b5c-89de-2021c5cf8f37" />
 
 
 
