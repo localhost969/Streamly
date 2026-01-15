@@ -2,10 +2,11 @@
 
 A Movies & Series streaming website built with Next.js , IMDB api , OMDB API and VIDSRC API, 
 
-## Screenshots
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/b4c32ee2-33c2-445d-8575-8a719734f14a" />
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/9f95e241-5932-499c-ae4b-eeb168c0e2c6" />
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/074f7f51-4e00-4ba2-8a0f-96d7183974d8" />
 
-![Home Page](public/home.png)
-![Series Player](public/series.png)
+
 
 ## Installation
 
